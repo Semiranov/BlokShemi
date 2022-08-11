@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T14:20:36.180Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="jJC07UXgXS_Mf1Udxo-P" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-11T14:22:24.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="zghLi6-O7EskRkIzOPQt" version="20.2.3" type="github" pages="2">
   <diagram id="JLdezREf5s-_i9mHPQbF" name="Страница 1">
     <mxGraphModel dx="788" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,6 +28,9 @@
         </mxCell>
         <mxCell id="u_yzRZPRcssbKCR1qLHa-6" value="Вывод sred" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="294" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMbwu7o3qy2YayTf-wI5-2" value="&lt;div style=&quot;text-align: start;&quot; title=&quot;Page 1&quot; class=&quot;page&quot;&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot; class=&quot;section&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: ArialMT;&quot;&gt;Составить блок-схему нахождения среднего арифметического из 4-х чисел.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="20" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
